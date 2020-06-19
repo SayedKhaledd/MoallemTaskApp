@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Test1</string>
+    <string name="open">Open</string>
+    <string name="_1">1</string>
+    <string name="w">w</string>
+    <string name="he">he</string>
+    <string name="ts">ts</string>
+    <string name="button">Button</string>
+    <string name="but2ton">Button</string>
+    <string name="todo">TODO</string>
+    <string name="button_13">Button 13</string>
+    <string name="moallem">Moallem</string>
+    <string name="physics">Physics</string>
+    <string name="chemistry">chemistry</string>
+    <string name="geometry">geometry</string>
+    <string name="algebra">algebra</string>
+    <string name="arabic">arabic</string>
+    <string name="welceome_back">Welceome Back !</string>
+    <string name="continue_learning">Continue learning?</string>
+    <string name="subjects">Subjects</string>
+</resources>
